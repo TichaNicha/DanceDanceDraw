@@ -1,2 +1,2 @@
 # DanceDanceDraw
-wanted to try creating a website inspired by DaniP's wonder of wonder site
+my attempt at recreating DaniP's wonder of wonder site
